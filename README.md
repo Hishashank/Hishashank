@@ -6,6 +6,6 @@
 - 💬 Ask me about anything data-science related, and I'll be happy to help you out. I love talking about this!
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I enjoy playing cricket when I'm not coding.[Data-Scientist-Resume.pdf](https://github.com/Hishashank/Hishashank/files/11924181/Data-Scientist-Resume.pdf)
+- ⚡ Fun fact: I enjoy playing cricket when I'm not coding.
 
 -->
